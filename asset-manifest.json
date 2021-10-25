@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learn-leaflet-dede/static/css/main.11ea2ecb.chunk.css",
+    "main.js": "/learn-leaflet-dede/static/js/main.1b67f52e.chunk.js",
+    "main.js.map": "/learn-leaflet-dede/static/js/main.1b67f52e.chunk.js.map",
+    "runtime-main.js": "/learn-leaflet-dede/static/js/runtime-main.92e97bb2.js",
+    "runtime-main.js.map": "/learn-leaflet-dede/static/js/runtime-main.92e97bb2.js.map",
+    "static/css/2.fe4bd031.chunk.css": "/learn-leaflet-dede/static/css/2.fe4bd031.chunk.css",
+    "static/js/2.ee74ea3a.chunk.js": "/learn-leaflet-dede/static/js/2.ee74ea3a.chunk.js",
+    "static/js/2.ee74ea3a.chunk.js.map": "/learn-leaflet-dede/static/js/2.ee74ea3a.chunk.js.map",
+    "static/js/3.c0afdbb7.chunk.js": "/learn-leaflet-dede/static/js/3.c0afdbb7.chunk.js",
+    "static/js/3.c0afdbb7.chunk.js.map": "/learn-leaflet-dede/static/js/3.c0afdbb7.chunk.js.map",
+    "index.html": "/learn-leaflet-dede/index.html",
+    "static/css/2.fe4bd031.chunk.css.map": "/learn-leaflet-dede/static/css/2.fe4bd031.chunk.css.map",
+    "static/css/main.11ea2ecb.chunk.css.map": "/learn-leaflet-dede/static/css/main.11ea2ecb.chunk.css.map",
+    "static/js/2.ee74ea3a.chunk.js.LICENSE.txt": "/learn-leaflet-dede/static/js/2.ee74ea3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e97bb2.js",
+    "static/css/2.fe4bd031.chunk.css",
+    "static/js/2.ee74ea3a.chunk.js",
+    "static/css/main.11ea2ecb.chunk.css",
+    "static/js/main.1b67f52e.chunk.js"
+  ]
+}
